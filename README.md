@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mohamed Nasser
+- 👀 I’m interested in embedded systems.
+- 🌱 I’m currently learning programming, software, hardware, and embedded systems.
+- 💞️ I’m looking to collaborate on projects related to embedded systems, IoT devices, and robotics.
+- 📫 How to reach me : You can connect with me on [Facebook](https://www.facebook.com/mohamed.sltan.5/). Let's share ideas and knowledge!
